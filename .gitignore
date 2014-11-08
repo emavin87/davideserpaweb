@@ -20,7 +20,7 @@ node_modules
 .lock-wscript
 
 # Bower components
-public/bower_components
+bower_components
 
 #Log debug
 npm-debug.log*
