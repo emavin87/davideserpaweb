@@ -1,0 +1,16 @@
+{
+  "name": "davideserpa",
+  "description": "Davide Serpa WebSite",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "*",
+    "angular-mocks": "1.3.x",
+    "jquery": "1.10.2",
+    "angular-route": "1.3.x",
+    "angular-resource": "1.3.x",
+    "angular-animate": "1.3.x",
+    "bootstrap":"3.0.0",
+    "isotope":"1.5.25"
+  }
+}
