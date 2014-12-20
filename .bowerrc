@@ -1,4 +1,6 @@
 {
   "directory": "bower_components",
-  "interactive": false
+  "interactive": "false",
+	"proxy":"http://vincie:Settembre2014@192.168.161.41:8080",
+  "https-proxy":"http://vincie:Settembre2014@192.168.161.41:8080"
 }

@@ -1,14 +1,5 @@
-/*!
- * Start Bootstrap - Agnecy Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 
-// jQuery for page scrolling feature - requires jQuery Easing plugin
-
-
-
-angular.module("dsApp");
+var app=angular.module("dsApp",[]);
 
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
